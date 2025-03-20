@@ -1,0 +1,937 @@
+College Name,Sentiment Score,College Score
+Kumaraguru College of Technology - [KCT],0.9969,99.845
+Prestige Institute of Engineering Management and Research - [PIEMR],0.9943,99.715
+PBR Visvodaya Institute of Technology and Science [PBR VITS],0.9941,99.705
+Nalla Malla Reddy Engineering College - [NMREC],0.9939,99.695
+Karpagam Academy of Higher Education - [KAHE],0.9935,99.675
+Dhole Patil College of Engineering - [DPCOE],0.993,99.64999999999999
+Aravali College of Engineering and Management - [ACEM],0.9923,99.615
+Institute of Engineering & Technology - GLA University,0.992,99.6
+Govind Ballabh Pant University of Agriculture and Technology,0.9919,99.595
+Gandhi Institute for Technology - [GIFT],0.9915,99.575
+Mohamed Sathak AJ College of Engineering - [MSAJCE],0.9912,99.56
+Government College of Engineering - [GCOEA],0.9912,99.56
+Siddhartha Institute of Science & Technology - [SISTK],0.9905,99.52499999999999
+Buddha Institute of Technology- [BIT],0.9902500000000001,99.5125
+Muzaffarpur Institute of Technology - [MIT],0.98965,99.4825
+Delhi University - [DU],0.9893,99.465
+Malla Reddy Institute of Engineering and Technology- [MRIET],0.9889,99.44500000000001
+IIT Goa - Indian Institute of Technology - [IITG],0.9881,99.405
+Shri Vishnu Engineering College for Women - [SVECW],0.9881,99.405
+Roever Engineering College-[REC],0.9873,99.365
+Teerthanker Mahaveer University - [TMU],0.9867,99.335
+Saharsa College of Engineering - [SCE],0.9864,99.32000000000001
+Govind Ballabh Pant Engineering College - [GBPEC],0.9863,99.315
+Aligarh Muslim University - [AMU],0.9863,99.315
+Sat Kabir Institute of Technology and Management - [SKITM],0.9859,99.295
+Meerut Institute of Technology - [MIT],0.9859,99.295
+Dr. N.G.P. Arts and Science College - [DrNGPASC],0.9858,99.29
+Shri Ram Group of Colleges - [SRGC],0.9855,99.275
+Karaikudi Institute of Technology and Management - [KIT & KIM],0.9855,99.275
+Marathwada Institute of Technology - [MIT],0.9853,99.265
+Narsimha Reddy Engineering College - [NRCM],0.98525,99.2625
+Indian Institute of Information Technology Sri City - [IIIT],0.9846,99.22999999999999
+Keshav Memorial Institute of Technology - [KMIT],0.9843,99.215
+Sai Vidya Institute of Technology - [SVIT],0.9836,99.18
+G D Goenka University - [GDGU],0.98305,99.1525
+BP Poddar Institute of Management and Technology,0.9829,99.145
+"University of Kerala, University College Of Engineering Kariavattom",0.9828,99.14
+"University College of Engineering Panruti, Anna University - [UCEP]",0.9823,99.115
+East Point Group of Institutions - [EPGI],0.9822,99.11
+Rajiv Gandhi University of Knowledge Technologies Basar- [RGUKT],0.9821,99.105
+BK Birla Institute of Engineering and Technology [BKBIET],0.9821,99.105
+Don Bosco Institute of Technology - [DBIT],0.9819,99.095
+Starex University,0.9818,99.09
+Rewa Engineering College - [REC],0.9817,99.08500000000001
+Sree Chaitanya College of Engineering - [SCCE],0.9815,99.075
+Anand International College of Engineering,0.9813,99.065
+Sanjivani College of Engineering Kopargaon,0.9813,99.065
+Government College of Engineering - [GCOE],0.981,99.05
+Vivekananda Institute of Technology,0.981,99.05
+Bipin Tripathi  Kumaon Institute of Technology,0.9805,99.025
+Agra College,0.9799,98.995
+International Institute of Information Technology - [IIIT] Naya Raipur,0.9799,98.995
+Rustamji Institute of Technology - [RJIT],0.9796,98.98
+Shantilal Shah Engineering College - [SSEC],0.979,98.95
+Pune Vidyarthi Griha's College of Engineering & S.S. Dhamankar Institute of Management,0.979,98.95
+Mohan Babu University - [MBU],0.979,98.95
+Baba Farid College of Engineering and Technology - [BFCET],0.9788,98.94000000000001
+C Abdul Hakeem College of Engineering and Technology - [CAHCET],0.9785,98.925
+Adichunchanagiri University - [ACU],0.9785,98.925
+Lakshmi Narain College of Technology Excellence - [LNCTE],0.9784,98.92
+Global Academy of Technology - [GAT],0.9782500000000001,98.91250000000001
+IES University,0.9782,98.91
+UV Patel College of Engineering - [UVPCE],0.978,98.9
+Global Institute of Technology and Management - [GITM],0.978,98.9
+Neotia Institute of Technology Management and Science - [NITMAS],0.9775,98.875
+CMR University - [CMRU],0.9774,98.87
+Anna University - [AU],0.9774,98.87
+Madha Engineering College,0.97725,98.8625
+Saveetha Engineering College - [SEC],0.977,98.85
+KJ Institute of Engineering and Technology - [KJIT],0.9769,98.845
+Federal Institute of Science and Technology - [FISAT],0.9768,98.83999999999999
+Manav Rachna International Institute of Research and Studies - [MRIIRS],0.9768,98.83999999999999
+Sri Ramanujar Engineering College - [SREC],0.97655,98.8275
+Maharshi Dayanand University - [MDU],0.9761,98.80499999999999
+Arifa Institute of Technology - [AIT],0.9755,98.775
+Vidya Academy of Science and Technology - [VAST],0.97505,98.7525
+Ballari Institute of Technology and Management - [BITM],0.975,98.75
+IIT Roorkee - Indian Institute of Technology - [IITR],0.9749000000000001,98.745
+Indraprastha Institute of Technology and Management - [IITM],0.9744333333333333,98.72166666666666
+Sahyadri College of Engineering & Management (SCEM),0.9741,98.705
+Mahendra Institute of Technology - [MIT],0.974,98.7
+NPR College of Engineering and Technology,0.9738,98.69
+Nowgong Engineering College,0.97375,98.6875
+Aryabhatta Knowledge University - [AKU],0.9736,98.68
+KDK College of Engineering,0.9735,98.675
+Parala Maharaja Engineering College - [PMEC],0.9734,98.67
+Sardar Patel Institute of Technology - [SPIT],0.9729,98.64500000000001
+Christ University,0.9727,98.635
+Mar Baselios College of Engineering and Technology - [MBCET] Nalanchira,0.97235,98.6175
+Hyderabad Institute of Technology and Management - [HITAM],0.9723,98.61500000000001
+VSB Engineering College - [VSBEC],0.9721,98.605
+Adithya Institute of Technology - [AIT],0.972,98.6
+John Bosco Engineering College - [JBEC],0.9719,98.595
+CMR Institute of Technology - [CMRIT],0.9718,98.59
+KIIT School of Biotechnology - [KSBT],0.97145,98.57249999999999
+P.B. College of Engineering - [PBCE],0.9709,98.54499999999999
+St Joseph Engineering College - [SJEC],0.9709,98.54499999999999
+Maharana Pratap Engineering College - [MPEC],0.9705,98.52499999999999
+Guru Nanak Dev University Regional Campus - [GNDU],0.9698,98.49
+Bhagat Phool Singh Mahila Vishwavidyalaya - [BPSMV],0.9698,98.49
+College of Engineering - [CEM] Munnar,0.9688,98.44
+Shri Vaishnav Vidyapeeth Vishwavidyalaya - [SVVV],0.9686333333333333,98.43166666666667
+Sagar Institute of Research and Technology - [SIRT],0.968125,98.40625
+Sphoorthy Engineering College - [SPHN],0.9678,98.39
+Babu Banarasi Das Institute of Technology - [BBDIT],0.9678,98.39
+Dr. Ambedkar Institute of Technology - [AIT],0.96764,98.38199999999999
+Maharaja Surajmal Institute of Technology - [MSIT],0.9674333333333335,98.37166666666668
+KS Rangasamy College of Technology,0.9674,98.37
+Kothiwal Institute of Technology and Professional Studies - [KITPS],0.9674,98.37
+Saveetha School of Engineering - [SSE],0.9674,98.37
+Technology Education and Research Integrated Institute - [TERII],0.9670749999999999,98.35374999999999
+Viswajyothi College of Engineering and Technology - [VJCET],0.967,98.35000000000001
+"Vignan's Foundation for Science, Technology, and Research",0.967,98.35000000000001
+RISE Krishna Sai Gandhi Group of Institutions,0.9669,98.345
+Terna Engineering College Navi Mumbai,0.9668,98.34
+Ahmedabad University,0.96675,98.3375
+PES College of Engineering - [PESCE],0.96665,98.3325
+Vignan Institute of Technology And Management,0.9666,98.33000000000001
+Sarvajanik College of Engineering and Technology - [SCET],0.9666,98.33000000000001
+Ramkrishna Mahato Government Engineering College,0.9665,98.32499999999999
+Symbiosis University of Applied Sciences- [SUAS],0.9664,98.32000000000001
+SG Balekundri Institute of Technology - [SGBIT],0.9661,98.30499999999999
+College of Engineering  - [COEP],0.9659,98.295
+Bengal Institute of Technology - [BIT],0.9657,98.285
+Saveetha Institute of Medical And Technical Sciences - [SIMATS],0.9656,98.28
+Shree Swaminarayan Institute of Technology- [SSIT],0.9655,98.275
+Darbhanga College of Engineering - [DCE],0.9651,98.25500000000001
+Camellia Institute of Technology - [CIT],0.9651,98.25500000000001
+Sri Krishna College of Engineering and Technology - [SKCET],0.96495,98.2475
+PES University Electronic City Campus,0.9643999999999999,98.22
+Andhra University - [AU],0.96425,98.2125
+Muffakham Jah College of Engineering & Technology - [MJCET],0.9639,98.195
+NRI Institute of Technology - [NRIIT],0.9639,98.195
+Vidyalankar Institute of Technology - [VIT],0.9638,98.19
+Shreeyash College of Engineering and Technology - [SYCET],0.9638,98.19
+Adichunchanagiri Institute of Technology- [AIT],0.9636,98.18
+Roorkee College of Engineering - [RCE],0.9636,98.18
+Madan Mohan Malaviya University of Technology - [MMMUT],0.9636,98.18
+Giani Zail Singh Campus College of Engineering and Technology - [GZSCCET],0.9636,98.18
+Tolani Maritime Institute - [TMI],0.9633,98.165
+Geethanjali College of Engineering and Technology - [GCET] Keesara,0.9632,98.16
+LDRP Institute of Technology and Research - [LDRPITR],0.963,98.15
+Government Engineering College - [GECI],0.9628,98.14
+Guru Nanak College of Engineering & Management - [GNCEM],0.9627,98.13499999999999
+Guru Jambheshwar University of Science and Technology - [GJUS&T],0.9620200000000001,98.101
+Kuppam Engineering College - [KEC],0.962,98.1
+Thadomal Shahani Engineering College - [TSEC],0.9619500000000001,98.09750000000001
+Dhaanish Ahmed College of Engineering - [DACE],0.9617,98.085
+Mukesh Patel School of Technology Management and Engineering - [MPSTME],0.9617,98.085
+Kakatiya Institute of Technology & Science - [KITSW],0.96165,98.08250000000001
+Chandubhai S Patel Institute of Technology - [CSPIT],0.9612,98.06
+Netaji Subhas Institute of Technology - [NSIT],0.9612,98.06
+Jaipur National University - [JNU],0.9612,98.06
+Rajkiya Engineering College [REC],0.9612,98.06
+Bharati Vidyapeeth's College of Engineering - [BVCOE],0.961175,98.05874999999999
+Varuvan Vadivelan Institute of Technology - [VVIT],0.961,98.05
+Hindu College of Engineering - [HCE],0.96075,98.0375
+Eranad Knowledge City Technical Campus Manjeri,0.9606,98.03
+Cummins College Of Engineering For Women,0.96,98.0
+Rajiv Gandhi College of Engineering - [RGCE],0.96,98.0
+Amrita Vishwa Vidyapeetham Bengaluru Campus,0.96,98.0
+Shiv Nadar University - [SNU],0.9598333333333334,97.99166666666667
+DY Patil College of Engineering and Technology - [DYPCET],0.9595,97.975
+"Pandit Deendayal Petroleum University, School of Technology - [PDPU SOT]",0.9589333333333334,97.94666666666667
+Mahaveer Institute of Science and Technology- [MIST],0.95885,97.9425
+Shri Rawatpura Sarkar Institute of Technology,0.9588,97.94
+Indraprastha Institute of Information Technology - [IIITD],0.9588,97.94
+Mahatma Jyotiba Phule Rohilkhand University - [MJPRU],0.9587,97.93499999999999
+Jain University - [JU],0.95845,97.9225
+Khaja Bandanawaz University - [KBNU],0.9584,97.92
+SNJB's College of Engineering Chandwad,0.9584,97.92
+D. Y. Patil College of Engineering,0.9581666666666666,97.90833333333333
+Jaypee University of Information Technology - [JUIT],0.9581,97.905
+Sanketika Vidya Parishad Engineering College,0.9579,97.895
+SRM University,0.9579,97.895
+Vignan's Lara Institute of Technology & Science - [VLITS],0.9575,97.875
+Deenbandhu Chhotu Ram University of Science and Technology - [DCRUST],0.9573666666666666,97.86833333333334
+QIS Institute of Technology - [QISIT],0.9571,97.855
+IIT Jodhpur - Indian Institute of Technology - [IITJ],0.95695,97.8475
+Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex - [SURTECH],0.9564,97.82
+Jaypee Institute of Information Technology University - [JIIT],0.95612,97.806
+CIPET- Institute Of Plastics Technology - [IPT],0.9561,97.80499999999999
+"University Institute of Technology, University Of Burdwan - [UIT]",0.9559,97.795
+Sanskar Educational Group - [SEG],0.9558476190476191,97.79238095238095
+Trinity College of Engineering and Research,0.9555,97.775
+Indian Institute of Information Technology - [IIITL],0.95535,97.76750000000001
+Indian Institute of Information Technology - [IIITD],0.95485,97.74249999999999
+A. P. Shah Institute of Technology - [APSIT],0.95485,97.74249999999999
+Academy for Technical and Management Excellence - [ATME],0.9545,97.725
+St. Thomas College of Engineering and Technology - [STCET],0.9545,97.725
+College of Agricultural Engineering and Technology,0.9541999999999999,97.71
+Dr. D. Y. Patil Institute of Technology - [DYPIT] Pimpri,0.9540500000000001,97.7025
+Dhanalakshmi College of Engineering - [DCE],0.9538,97.69
+GSFC University,0.95375,97.6875
+Fatima Michael College of Engineering and Technology,0.9536,97.68
+SJB Institute of Technology - [SJBIT],0.9532499999999999,97.6625
+Technocrats Institute of Technology - [TIT] (Excellence),0.9532,97.66
+THDC Institute of Hydro Power Engineering and Technology,0.9531,97.655
+Allenhouse Institute of Technology,0.95245,97.6225
+Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College,0.9524,97.61999999999999
+University of Kalyani,0.9522,97.61
+Sant Longowal Institute of Engineering and Technology - [SLIET],0.9519500000000001,97.5975
+"College of Engineering And Management, Kolaghat",0.9518,97.59
+NRI Institute of Information Science and Technology - [NIIST],0.9517,97.585
+KLS Gogte Institute of Technology - [KLS GIT],0.95155,97.5775
+Regent Education and Research Foundation - [RERF],0.9509,97.54499999999999
+Institute of Management Studies - [IMS],0.9509,97.54499999999999
+KPR Institute of Engineering & Technology - [KPRIET],0.95085,97.5425
+Narsee Monjee Institute of Management Studies -[NMIMS Deemed to be University],0.95035,97.5175
+YMCA,0.9501,97.505
+Babu Banarasi Das Engineering College - [BBDEC],0.9501000000000001,97.505
+Aliah University,0.95,97.5
+P.S.G College of Technology - [PSGCT],0.9496,97.48
+SVS Group of Institutions,0.94935,97.4675
+Malla Reddy Engineering College for Women - [MRECW],0.9493,97.465
+Mother Teresa Institute of Science and Technology,0.9493,97.465
+BML Munjal University - [BMU],0.9491499999999999,97.4575
+"GIET Engineering College, Rajahmundhry",0.9491,97.455
+Dayalbagh Educational Institute - [DEI],0.9488,97.44
+MKSSS's Cummins College of Engineering for Women,0.9480666666666666,97.40333333333334
+JSS Science and Technology University -[JSSSTU],0.94785,97.3925
+Jyothishmathi Institute of Technology and Science - [JITS],0.9477,97.385
+Modern Education Society's College of Engineering - [MESCOE],0.9477,97.385
+Banasthali Vidyapith,0.9477,97.385
+RVS College of Engineering and Technology - [RVSCET],0.9476714285714286,97.38357142857143
+St. Mary’s Group of Institutions,0.9474,97.37
+IIT Mandi- Indian Institute of Technology - [IITM],0.9472,97.36
+JD College of Engineering and Management,0.9469,97.345
+SR Institute Of Management and Technology - [SRIMT],0.94675,97.3375
+Aditya College Of Engineering and Technology - [ACET],0.94645,97.3225
+PSNA College of Engineering and Technology,0.9463,97.315
+Bennett University,0.946,97.3
+MIC College of Technology,0.9459,97.295
+Rajalakshmi Institute of Technology - [RIT],0.9459,97.295
+Charotar University of Science and Technology - [CHARUSAT],0.9458500000000001,97.2925
+CMR Technical Campus - [CMRTC],0.9457333333333334,97.28666666666668
+Gandhi Institute of Technology and Management - [GITAM],0.9453499999999999,97.2675
+IILM University,0.9448,97.24
+Maharaja Institute of Technology Thandavapura - [MITT],0.9447,97.235
+St. Aloysius Institute of Technology - [SAIT],0.9446,97.22999999999999
+Alliance School of Law,0.9442,97.21
+BS Anangpuria Institute of Technology and Management,0.9442,97.21
+IIMT University - [IIMTU],0.9441,97.20500000000001
+Mahatma Gandhi Institute of Technology - [MGIT],0.94345,97.1725
+Matrusri Engineering College,0.9432,97.16
+V.R.S College of Engineering and Technology -[VRSCET],0.9432,97.16
+JIMS Engineering Management Technical Campus- [JEMTEC],0.9431799999999999,97.15899999999999
+IIT Kanpur - Indian Institute of Technology - [IITK],0.94316,97.158
+Baba Banda Singh Bahadur Engineering College - [BBSBEC],0.9428000000000001,97.14
+Aditya College of Agricultural Engineering and Technology,0.9423,97.115
+MLR Institute of Technology - [MLRIT],0.9422,97.11000000000001
+AISSMS Institute of Information Technology,0.94215,97.1075
+Sardar Vallabhbhai Patel Institute of Technology - [SVIT] Vasad,0.94166,97.08300000000001
+Vidyavardhini's College of Engineering and Technology - [VCET],0.9414,97.07000000000001
+Kalinga University,0.9413,97.065
+Mangalore Institute of Technology and Engineering - [MITE],0.9408666666666666,97.04333333333332
+Annamacharya Institute of Technology and Sciences - [AITS],0.9401,97.00500000000001
+Medi-Caps University,0.939439024390244,96.97195121951219
+Institute of Aeronautical Engineering - [IARE],0.9393,96.965
+Rajeev Gandhi Memorial College of Engineering and Technology Nandyal - [RGMCET],0.9392,96.96000000000001
+Madanapalle Institute of Technology & Science -[MITS],0.9388857142857143,96.94428571428571
+Poornima College of Engineering,0.9388857142857143,96.94428571428571
+GLA University,0.938875,96.94375
+Rajkiya Engineering College - [REC],0.93865,96.9325
+Annamacharya Institute of Technology and Science - [AITS],0.93825,96.9125
+JIS University,0.9382,96.91000000000001
+Chandigarh Group of Colleges - [CGC] Jhanjeri,0.9381,96.905
+Malla Reddy Institute of Technology and Science - [MRITS],0.938,96.89999999999999
+JIS College of Engineering - [JISCE],0.9379857142857143,96.89928571428572
+St Joseph College of Engineering,0.9378,96.89
+XIM University,0.9372,96.86
+Anand Engineering College - [AEC],0.9371,96.855
+IIT Indore - Indian Institute of Technology - [IITI],0.9364,96.82
+BVRIT Hyderabad College of Engineering for Women - [BVRITH],0.9359,96.795
+Vivekanandha College of Technology for Women - [VCTW],0.93575,96.78750000000001
+Shekhawati Group of Institutions,0.9357,96.785
+Moradabad Institute of Technology - [MIT],0.9356,96.78
+Siddhartha Institute of Engineering and Technology - [SIET],0.93535,96.76750000000001
+N.B. Navale Sinhgad College of Engineering,0.9349000000000001,96.745
+Sreenivasa Institute of Technology & Management Studies - [SITAMS],0.9342666666666667,96.71333333333334
+Saintgits College of Engineering,0.9337,96.685
+National Institute of Technology - [NIT] Meghalaya,0.9337,96.685
+Bannari Amman Institute of Technology - [BIT],0.9335799999999999,96.67899999999999
+IIT Madras - Indian Institute of Technology - [IITM],0.9332833333333334,96.66416666666666
+ABES Engineering College,0.9329666666666667,96.64833333333334
+Vellore Institute of Technology - [VIT],0.9325545454545455,96.62772727272728
+Shadan College of Engineering & Technology - [SCET],0.9325,96.625
+RCC Institute of Information Technology - [RCCIIT],0.9325,96.625
+Siddaganga Institute of Technology - [SIT],0.9318200000000001,96.59100000000001
+Mahendra Engineering College,0.9313,96.565
+Gujarat Technological University - [GTU],0.9313,96.565
+Hemwati Nandan Bahuguna Garhwal University,0.9312,96.56
+MVPS's  Karmaveer Adv. Baburao Ganpatrao Thakare College of Engineering,0.9312,96.56
+"University College of Engineering and Technology, Vinoba Bhave University - [UCET]",0.93,96.50000000000001
+Raj Kumar Goel Institute of Technology - [RKGIT],0.92986,96.49300000000001
+Indore Institute of Science and Technology - [IIST],0.9297714285714286,96.48857142857143
+College of Dairy and Food Science Technology - [CDFST],0.9297,96.485
+Shivajirao S. Jondhle College of Engineering and Technology,0.9297,96.485
+Institute of Technology & Management - [ITM],0.9296,96.48
+Indian Institute of Information Technology Vadodara - [IIIT-V],0.9294888888888888,96.47444444444444
+Anand College of Engineering and Management - [ACEM],0.9294,96.47
+SRM Valliammai Engineering college -[VEC],0.9293,96.465
+Rajasthan Technical University - [RTU],0.9292199999999999,96.461
+North Eastern Regional Institute of Science and Technology - [NERIST],0.9289,96.44500000000001
+Marathwada Mitra Mandal's College of Engineering - [MMCOE] Karvenagar,0.9286,96.42999999999999
+R V College of Engineering - [RVCE],0.9281200000000001,96.406
+"Institute of Management Studies, Banaras Hindu University",0.9274,96.37
+Malla Reddy Institute of Technology - [MRIT],0.9274,96.37
+Malla Reddy College of Engineering and Technology- [MRCET],0.92645,96.3225
+Institute of Road and Transport Technology - [IRTTECH],0.9264,96.32000000000001
+Madras Institute of Technology- [MIT],0.92605,96.30250000000001
+Aryan Institute of Engineering and Technology - [AIET],0.9259,96.295
+College of Engineering and Management - [CEM] Punnapara,0.925425,96.27125000000001
+Chennai Institute of Technology - [CIT],0.92492,96.246
+Future Institute of Engineering and Management - [FIEM],0.9245666666666666,96.22833333333334
+Viva Institute of Technology - [VIOT],0.92445,96.2225
+NIT Silchar,0.9242076923076923,96.21038461538461
+Alliance University,0.9240625,96.203125
+ITS Engineering College,0.9236,96.17999999999999
+Amrita Vishwa Vidyapeetham,0.9232625,96.163125
+Indian Institute of Information Technology - [IIIT-K],0.923,96.15
+REVA University,0.923,96.15
+MIT World Peace University - [MIT-WPU],0.92285,96.1425
+College of Agricultural Biotechnology,0.92285,96.1425
+"Bharathidasan Institute of Technology, Anna University - [AUBIT]",0.9225,96.125
+Manipal Academy of Higher Education - [MAHE],0.9224,96.12
+Dr. B.C. Roy Engineering College  - [BCREC],0.9224,96.12
+Army Institute of Technology - [AIT],0.9221538461538461,96.1076923076923
+Poornima Institute of Engineering  and Technology - [PIET],0.9216666666666667,96.08333333333334
+Bengal College of Engineering and Technology - [BCET],0.9211333333333332,96.05666666666666
+Sri Jayaram Institute of Engineering and Technology - [SJIET],0.92065,96.0325
+Geetanjali Institute of Technical Studies - [GITS],0.9195666666666666,95.97833333333334
+Manipal University - [MUJ],0.9193166666666667,95.96583333333332
+Usha Mittal Institute of Technology - [UMIT],0.9189125,95.945625
+Rabindranath Tagore University - [RNTU],0.9189,95.94500000000001
+"Gayatri Vidya Parishad College for Degree and PG Courses, School of Engineering",0.91875,95.9375
+JSPM Narhe Technical Campus - [JSPM NTC] Narhe,0.9186,95.93
+"Andhra University, College of Engineering - [AUCE]",0.9186,95.93
+Dayananda Sagar University - [DSU],0.918,95.9
+Pandit Deendayal Energy University - [PDEU],0.9179999999999999,95.89999999999999
+Vishwakarma Institute of Technology,0.9179571428571428,95.89785714285715
+GIET University - [GIET],0.917825,95.89125
+Vivekananda College of Engineering & Technology - [VCET],0.9178,95.89
+Shri Ramswaroop Memorial College of Engineering and Management -  [SRMCM],0.91635,95.8175
+Vidyavardhaka College of Engineering - [VVCE],0.91595,95.7975
+Padmabhooshan Vasantdada Patil Institute of Technology - [PVPIT],0.9153,95.765
+Rajiv Gandhi Institute of Technology - [RGIT],0.9139999999999999,95.7
+"University Institute of Engineering, Chandigarh University - [UIE]",0.9131999999999999,95.66
+Cambridge Institute of Technology - [CiTech],0.9128550000000001,95.64274999999999
+East West College of Engineering - [EWCE],0.9118,95.59
+HKBK Group of Institutions,0.9117666666666667,95.58833333333334
+K. J. Somaiya College of Engineering - [KJSCE],0.9116500000000001,95.58250000000001
+Veer Surendra Sai University of Technology - [VSSUT],0.910775,95.53875000000001
+Laxmi Devi Institute of Engineering and Technology - [LIET],0.91065,95.5325
+Kamla Nehru Institute of Technology - [KNIT],0.9105,95.52499999999999
+Aditya Engineering College - [AEC],0.91,95.5
+Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology - [Vel Tech],0.9094833333333333,95.47416666666666
+Sam Higginbottom University of Agriculture Technology and Sciences - [SHUATS],0.9094666666666665,95.47333333333331
+NMAM Institute of Technology - [NMAMIT],0.909025,95.45125
+Smt. Indira Gandhi College of Engineering - [SIGCE],0.9081,95.405
+Sri Venkateswara University - [SVU],0.9081,95.405
+Bundelkhand Institute of Engineering & Technology - [BIET],0.908,95.39999999999999
+KCC Institute of Technology and Management - [KCCITM],0.9077000000000001,95.385
+Guru Nanak Institute of Technology - [GNIT],0.9075300000000001,95.3765
+Bangalore Institute of Technology - [BIT],0.90745,95.37249999999999
+Delhi Institute of Tool Engineering - [DITE],0.9073,95.365
+Vivekananda Institute of Technology - [VIT],0.9072,95.36
+Shri Govindram Seksaria Institute of Technology and Science- [SGSITS],0.9065375,95.326875
+AKS University - [AKSU],0.9064,95.32000000000001
+Amity Institute of Biotechnology - [AIB],0.9059,95.295
+GH Raisoni College of Engineering - [GHRCE],0.905875,95.29375
+UPL University of Sustainable Technology,0.9058,95.29
+ACE Engineering College - [ACEEC],0.9057,95.285
+Chitkara Institute of Engineering and Technology - [CIET],0.9052,95.26
+Guru Nanak Institutions Technical Campus - [GNITC],0.9050499999999999,95.2525
+University of Engineering and Management - [UEM],0.904276923076923,95.21384615384615
+SSBT's College of Engineering and Technology,0.90405,95.2025
+Sri Vasavi Engineering College - [SVEC],0.9039,95.19500000000001
+Government Engineering College - [ECB],0.9038666666666666,95.19333333333333
+Kanpur Institute of Technology - [KIT],0.9038,95.19
+KMEA Engineering College - [KMEA EC],0.90345,95.1725
+Dronacharya College of Engineering - [DCE],0.9032,95.16
+National Institute of Science and Technology - [NIST],0.9027333333333333,95.13666666666667
+Kalyani Government Engineering College - [KGEC],0.9027,95.13499999999999
+Fr. Conceicao Rodrigues College of Engineering - [CRCE],0.9026,95.13000000000001
+Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya- [MGCGV],0.9026,95.13000000000001
+Aditya Silver Oak Institute of Technology - [ASOIT],0.9022,95.11
+Netaji Subhas University of Technology - [NSUT],0.9018285714285714,95.09142857142857
+Velagapudi Ramakrishna Siddhartha Engineering College - [VRSEC],0.9014500000000001,95.0725
+Presidency University,0.900725,95.03625
+RV College of Architecture - [RVCA],0.90045,95.0225
+Vivekanand Education Society Institute of Technology - [VESIT],0.90045,95.0225
+Sinhgad Institute of Technology - [SIT] Lonavala,0.9002666666666667,95.01333333333332
+Jai Narain College of Technology - [JNCT],0.8998,94.99
+Anil Neerukonda Institute of Technology & Sciences - [ANITS],0.8983666666666666,94.91833333333332
+TKM College of Engineering - [TKMCE],0.8978999999999999,94.895
+Delhi Technological University - [DTU],0.89770625,94.88531250000001
+Muthayammal Engineering College - [MEC],0.8977,94.88499999999999
+Vishnu Institute of Technology - [VIT],0.897,94.85
+Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM],0.89685,94.8425
+R.N.G. Patel Institute of Technology - [RNGPIT],0.8968,94.84
+Sona College of Technology,0.8967,94.83500000000001
+Tula's Institute,0.8958666666666666,94.79333333333332
+IIT Bombay - Indian Institute of Technology - [IITB],0.8953,94.765
+Central Institute of Technology - [CIT],0.8949833333333334,94.74916666666667
+Amrutvahini College of Engineering - [AVCOE],0.8944,94.72
+Malla Reddy Engineering College - [MREC],0.8941666666666667,94.70833333333333
+University of Lucknow - [LU],0.8941333333333333,94.70666666666668
+SDM College of Engineering and Technology - [SDMCET],0.894,94.7
+ABES Institute of Technology - [ABESIT],0.8939,94.695
+Saranathan College of Engineering - [SCE],0.8934,94.67
+Amity School of Engineering & Technology - [ASET],0.8934,94.67
+Dr. Ram Manohar Lohia Avadh University - [RMLAU],0.8934,94.67
+HMR Institute of Technology & Management - [HMRITM],0.8934,94.67
+Progressive Education Society's Modern College of Engineering - [MCOE],0.89326,94.66300000000001
+G H Raisoni Institute of Engineering & Technology - [GHRIET],0.8932,94.66
+Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology - [VNR VJIET],0.893125,94.65625
+Khwaja Moinuddin Chishti Urdu Arabi-Farsi University,0.893,94.65
+"Alagappa College of Technology, Anna University - [ACT]",0.893,94.65
+Sinhgad College of Engineering - [SCOE] Vadgaon Ambegaon,0.89298,94.649
+Government Engineering College - [GECT],0.8927375,94.636875
+NBKR Institute of Science and Technology Vidyanagar - [NBKRIST],0.8922,94.61
+Academy of Maritime Education and Training University - [AMET],0.89215,94.6075
+Vivekanandha College of Engineering for Women - [VCEW],0.8916657142857143,94.58328571428571
+PVKK Institute of Technology - [PVKKIT],0.8915500000000001,94.5775
+Sri Shakthi Institute of Engineering and Technology - [SIET],0.891,94.55
+Gudlavalleru Engineering College - [GEC],0.891,94.55
+Gauhati University - [GU],0.891,94.55
+GIDC Degree Engineering College,0.891,94.55
+I.K. Gujral Punjab Technical University - [IKG-PTU],0.8905,94.52499999999999
+VIT Bhopal University,0.8900399999999999,94.502
+College of Engineering Muttathara,0.8891,94.455
+G L Bajaj Institute of Technology and Management,0.88865625,94.4328125
+Galgotias College of Engineering and Technology - [GCET],0.88865,94.4325
+"University School of Information, Communication  and Technology - [USICT]",0.8885,94.425
+Universal College of Engineering,0.8885,94.425
+RMD Sinhgad School of Management Studies - [RMDSSOMS] Warje,0.8885,94.425
+Prathyusha Engineering College - [PEC],0.886825,94.34125
+Government College of Engineering and Ceramic Technology - [GCECT],0.8868,94.34
+Central University of Haryana - [CUH],0.8867,94.33500000000001
+KNS Institute of Technology - [KNSIT],0.8849666666666667,94.24833333333333
+Sharda University - [SU],0.8847799999999999,94.23899999999999
+Integral University,0.8835000000000001,94.17500000000001
+Pillai College of Engineering - [PCE] Navi Mumbai,0.8823142857142857,94.11571428571428
+Techno International New Town - [TINT],0.88225,94.1125
+"University Institute of Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya - [UIT- RGPV]",0.88175,94.0875
+Maulana Azad National Institute of Technology  - [MANIT],0.8816,94.08000000000001
+KIET Group of Institutions - [KIET],0.8815272727272727,94.07636363636364
+IIMT College of Engineering,0.8812249999999999,94.06125
+Babu Banarasi Das Institute of Technology & Management - [BBDITM],0.881,94.05
+Arunai Engineering College - [AEC],0.8807,94.035
+Bharat Institute of Engineering and Technology - [BIET] Ibrahimpatnam,0.8807,94.035
+"Chaibasa Engineering College, Techno India Group",0.8805,94.025
+BITS Pilani (Pilani Campus),0.87895,93.9475
+Bharati Vidyapeeth University College of Engineering - [BVUCOE],0.8787666666666666,93.93833333333332
+Maturi Venkata Subba Rao Engineering College - [MVSREC],0.8785000000000001,93.925
+Garden City University - [GCU],0.8779,93.895
+Government College of Engineering and Research,0.8765,93.825
+Institute of Engineering and Management - [IEM],0.8754636363636364,93.77318181818181
+Jabalpur Engineering College - [JEC],0.8748583333333334,93.74291666666667
+Silicon Institute of Technology - [SIT],0.8745800000000001,93.72900000000001
+BV Raju Institute of Technology - [BVRIT],0.8745666666666666,93.72833333333332
+Pragati Engineering College,0.8744333333333333,93.72166666666666
+Tripura Institute of Technology,0.8744,93.72
+Panimalar Engineering College,0.8743,93.71499999999999
+Shree Ramchandra College of Engineering - [SRCOE],0.8737,93.685
+BMS College of Engineering - [BMSCE],0.8734545454545455,93.67272727272727
+Bharati Vidyapeeth College of Engineering - [BVCOE] Navi Mumbai,0.8728,93.64
+Prince Shri Venkateshwara Padmavathy Engineering College - [PSVPEC],0.8723,93.61500000000001
+"Rajiv Gandhi University of Knowledge Technologies, Dr.APJ Abdul Kalam IIIT Ongole Campus - [RGUKT]",0.8723,93.61500000000001
+Noida Institute of Engineering and Technology - [NIET],0.87148,93.574
+Francis Xavier Engineering College,0.87125,93.5625
+United College of Engineering & Research - [UCER],0.8710071428571429,93.55035714285714
+Rathinam Technical Campus - [RTC],0.871,93.55
+IIT Kharagpur - Indian Institute of Technology - [IITKGP],0.8703833333333333,93.51916666666666
+MIT-WPU Faculty of Engineering,0.86895,93.44749999999999
+Excel Engineering College,0.8689,93.445
+Quantum University,0.8687,93.435
+NIE Institute of Technology - [NIEIT],0.8687,93.435
+Gayatri Vidya Parishad College of Engineering,0.86745,93.3725
+IIT Guwahati - Indian Institute of Technology - [IITG],0.8663,93.315
+Pacific School of  Engineering - [PSE],0.8658,93.29
+Sri Sairam Engineering College,0.8655,93.27499999999999
+Ramrao Adik Institute of Technology - [RAIT],0.8652666666666667,93.26333333333335
+MVJ College of Engineering - [MVJCE],0.865,93.25
+Mahakal Institute of Technology - [MIT],0.8641000000000001,93.205
+Visvodaya Engineering College,0.8641,93.205
+Malla Reddy College of Engineering - [MRCE],0.86385,93.1925
+Vidya Jyothi Institute of Technology - [VJIT],0.86312,93.15599999999999
+Srinivasa Ramanujan Institute of Technology - [SRIT],0.8629,93.145
+Parisutham Institute of Technology and  Science - [PITS],0.8625,93.125
+Parul Institute of Technology - [PIT],0.8624,93.12
+Gurugram University,0.8616,93.08000000000001
+Vignana Bharathi Institute of Technology - [VBIT],0.8611333333333334,93.05666666666667
+G H Raisoni College of Engineering and Management - [GHRCEM],0.8611,93.05499999999999
+SNS College of Technology - [SNSCT],0.86035,93.0175
+TKR College of Engineering and Technology - [TKRCET],0.8594666666666666,92.97333333333333
+Vikrant University,0.8591,92.955
+AISSMS College of Engineering - [AISSMSCOE],0.8589,92.945
+National Dairy Research Institute - [NDRI],0.8588,92.94
+National Institute of Technology - [NITP],0.8586,92.93
+Late GN Sapkal College of Engineering,0.8586,92.93
+Parvatibai Genba Moze College of Engineering - [PGMCOE],0.8583000000000001,92.915
+College of Engineering - [CEC] Chengannur,0.8576333333333332,92.88166666666666
+SR Group of Institutions - [SRGI],0.8573,92.865
+Deogiri Institute of Engineering and Management Studies - [DIEMS],0.8573,92.865
+Birla Institute of Technology and Science - [BITS],0.8567125,92.835625
+Rajarambapu Institute of Technology - [RIT],0.8557250000000001,92.78625000000001
+Muthoot Institute of Technology & Science - [MITS],0.85535,92.7675
+Institute of Technical Education and Research - [ITER],0.8540230769230769,92.70115384615384
+IIMT Group of Colleges,0.8539,92.695
+Narula Institute of Technology - [NIT Agarpara],0.8525181818181818,92.62590909090909
+KJ Somaiya Institute of Engineering and Information Technology - [KJSIEIT],0.8519,92.595
+PACE Institute of Technology and Sciences,0.8516,92.58
+Thapar Institute of Engineering and Technology - [Thapar University],0.8510586206896552,92.55293103448277
+College of Engineering,0.8506,92.53
+BP Mandal College of Engineering,0.85005,92.5025
+ITM Vocational University - [ITMVU],0.85,92.5
+National Institute of Technology - [NITK],0.84884,92.44200000000001
+Gautam Buddha University - [GBU],0.84865,92.4325
+College of Engineering Perumon,0.8481,92.405
+MEA Engineering College- [MEAEC],0.8469000000000001,92.34500000000001
+Indian Institute of Information Technology Design & Manufacturing - [IIITDM],0.8464,92.32000000000001
+IIT Delhi - Indian Institute of Technology [IITD],0.8459526315789474,92.29763157894737
+Meerut Institute of Engineering and Technology - [MIET],0.8452333333333334,92.26166666666667
+Greater Kolkata College of Engineering & Management - [GKCEM],0.8445,92.225
+College of Engineering - [COER],0.8442500000000001,92.2125
+Karpagam Institute of Technology,0.8442000000000001,92.21000000000001
+Annai College of Engineering and Technology - [ACET],0.8442,92.21
+Global Institute of Engineering and Technology - [GIT],0.8442,92.21
+SRMIST Delhi NCR Campus,0.844,92.19999999999999
+Galgotias University - [GU],0.8433666666666667,92.16833333333334
+Laxminarayan Institute of Technology - [LIT],0.8428500000000001,92.1425
+ITM University,0.84255,92.12750000000001
+GL Bajaj Group of Institutions - [GLBGI],0.8422,92.11
+Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT],0.8410000000000001,92.05000000000001
+Co-operative Institute of Technology - [CITV],0.8396,91.97999999999999
+University Institute of Engineering and Technology - [UIET],0.8390666666666666,91.95333333333333
+Vishwakarma University - [VU],0.8388500000000001,91.94250000000001
+JNTUH College of Engineering Jagtial - [JNTUHCEJ],0.8387800000000001,91.93900000000001
+Gandhiji Institute of Science and Technology - [GIST],0.8384,91.92
+"Faculty of Engineering and Technology, Jain University - [FET JU]",0.8382200000000001,91.91100000000002
+Sharad Institute of Technology College of Engineering,0.8381,91.90499999999999
+National Fire Service College - [NFSC],0.83755,91.8775
+K L University - [KLU],0.837209090909091,91.86045454545454
+IIT Dharwad - Indian Institute of Technology - [IITD],0.8363,91.815
+Gaya College of Engineering,0.8361999999999999,91.80999999999999
+Sri Venkateswara College of Engineering & Technology - [SVCET],0.836,91.8
+Bhagwan Parshuram Institute of Technology - [BPIT],0.8346333333333332,91.73166666666665
+Mody University,0.83425,91.71249999999999
+Marathwada Mitramandal's College of Commerce - [MMCC],0.833825,91.69125
+Chartered Institute of Technology- [CIT],0.8338,91.69
+Indian Institute of Information Technology - [IIIT],0.8336133333333333,91.68066666666667
+Vardhaman College of Engineering - [VCE],0.833,91.64999999999999
+JEPPIAAR SRR Engineering college,0.8316,91.58
+Lovely Professional University - [LPU],0.8315850746268657,91.57925373134329
+Birla Vishvakarma Mahavidyalaya Engineering College - [BVM],0.8310666666666666,91.55333333333333
+Toc H Institute of Science and Technology - [TIST],0.831,91.55
+Graphic Era Hill University - [GEHU],0.831,91.55
+Vimal Jyothi Engineering College - [VJEC],0.8309500000000001,91.5475
+Finolex Academy of Management and Technology - [FAMT],0.8307,91.535
+"Bharath Institute of Higher Education and Research, College of Management",0.8297,91.485
+Scholar's Institute of Technology and Management - [SITM],0.8287,91.435
+AP Goyal Shimla University,0.8275,91.375
+Sri Venkateswara College of Engineering - [SVCE],0.82715,91.3575
+MES College of Engineering - [MESCE] Kuttippuram,0.82715,91.3575
+Shoolini University,0.8268,91.34
+Sri Indu College of Engineering and Technology - [SICET] Ibrahimpatnam,0.8260333333333333,91.30166666666666
+Gurukula Kangri Vishwavidyalaya - [GKV],0.8243,91.215
+Parul University,0.8232285714285714,91.16142857142857
+Raghu Engineering College - [REC],0.8229666666666667,91.14833333333334
+Vellore Institute of Technology - [VIT University],0.82257,91.1285
+Manakula Vinayagar Institute of Technology - [MVIT],0.8225,91.125
+Nitte Meenakshi Institute of Technology - [NMIT],0.82162,91.081
+St. Thomas College of Engineering and Technology- [STC],0.8213,91.065
+National Institute of Technology - [NITC],0.82094,91.047
+Dayananda Sagar Academy of Technology and Management - [DSATM],0.8209171428571428,91.04585714285713
+The National Institute of Engineering - [NIE],0.8206727272727273,91.03363636363638
+Zeal Education Society's Zeal College of Engineering and Research - [ZCOER],0.8206666666666665,91.03333333333332
+Thakur College of Engineering and Technology - [TCET],0.8196,90.97999999999999
+Meghnad Saha Institute of Technology - [MSIT],0.8189,90.945
+"College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology - [CTAE]",0.8189,90.945
+ITM SLS Baroda University,0.8178,90.89
+Matoshri College of Engineering and Research Centre - [MCOERC] Eklahare,0.8166,90.83
+IIT BHU - Indian Institute of Technology,0.816085,90.80425
+Jawaharlal Nehru Engineering College - [JNEC],0.8155,90.775
+KCG College Of technology,0.8150999999999999,90.755
+Dayananda Sagar College of Engineering - [DSCE],0.815,90.75
+SASTRA University,0.8143615384615385,90.71807692307692
+National Institute of Technology - [NIT],0.8135301886792453,90.67650943396227
+"Raja College of Engineering and Technology, Veerapanjan",0.8126,90.63
+Thangal Kunju Musaliar Institute of Technology - [TKM],0.8126,90.63
+"University College of Engineering, Mahatma Gandhi University - [UCE]",0.8121499999999999,90.6075
+Amal Jyothi College of Engineering  - [AJCE],0.8104999999999999,90.52499999999999
+RC Patel Institute of Technology - [RCPIT],0.8101,90.505
+Yeshwantrao Chavan College of Engineering - [YCCE],0.8100666666666667,90.50333333333333
+Netaji Subhash Engineering College - [NSEC],0.8092375,90.461875
+ITM Group of Institutions,0.8085,90.425
+"JECRC University, School of Engineering",0.8078,90.38999999999999
+KLE Technological University,0.8065833333333333,90.32916666666667
+C. V. Raman Global University,0.8065,90.325
+Aditya Institute of Technology and Management -[AITAM],0.8057000000000001,90.28500000000001
+Sir M Visvesvaraya Institute of Technology - [Sir MVIT],0.80505,90.2525
+Government Engineering College - [GEC],0.805025,90.25125
+Sikkim Manipal Institute of Technology - [SMIT],0.8048,90.24
+Roorkee Institute of Technology - [RIT],0.80447,90.2235
+JSS Academy of Technical Education - [JSSATE],0.8023714285714286,90.11857142857143
+Indian Institute of Information Technology - [IIITG],0.8020333333333333,90.10166666666666
+Rungta College of Engineering and Technology - [RCET],0.802,90.10000000000001
+"PDM University, Bahadurgarh",0.8016,90.08
+Zakir Hussain College of Engineering and Technology - [ZHCET],0.7988666666666667,89.94333333333333
+"Sagar Institute of Science and Technology - [SISTec] -
+ Sagar Group of Institutions",0.7977000000000001,89.885
+Rashtriya Raksha University - [RRU],0.7962,89.81
+University college of Engineering,0.796,89.8
+SRM Institute of Science and Technology - [SRMIST],0.7958538461538461,89.7926923076923
+DKTE Society's Textile and Engineering Institute - [DKTE],0.795275,89.76375
+Acropolis Institute of Technology & Research - [AITR],0.794605,89.73025
+CMR Engineering College - [CMREC],0.7936090909090908,89.68045454545455
+PSN Institute of Technology and Science - [PSNITS],0.793,89.65
+Inderprastha Engineering College - [IPEC],0.7915749999999999,89.57875
+Vishwakarma Institute of Information Technology - [VIIT],0.79135,89.5675
+Indus University,0.7906,89.53
+NIT Warangal,0.7901714285714286,89.50857142857143
+Techno India University,0.7891942307692308,89.45971153846153
+Shri Guru Gobind Singhji Institute of Engineering and Technology - [SGGSIE&T],0.7876,89.38
+Musaliar College of Engineering and Technology,0.787,89.35
+Kalinga Institute of Industrial Technology - [KIIT],0.7867911764705883,89.33955882352942
+GMR Institute of Technology - [GMRIT],0.7862666666666667,89.31333333333333
+Datta Meghe College of Engineering Airoli,0.7845,89.225
+Malnad College of Engineering - [MCE],0.7839999999999999,89.19999999999999
+Bhilai Institute of Technology - [BIT],0.7825000000000001,89.12500000000001
+Harcourt Butler Technological University - [HBTU],0.7809,89.045
+Krishna University - [KU],0.7808,89.04
+Sree Vidyanikethan Engineering College - [SVEC],0.7807,89.035
+College of Engineering and Technology,0.78025,89.0125
+Sreenidhi Institute of Science and Technology - [SNIST],0.7793818181818182,88.96909090909091
+Adani Institute of Infrastructure Engineering - [AIIE],0.7793818181818182,88.96909090909091
+Lokmanya Tilak College of Engineering - [LTCE],0.7783,88.915
+Indian Institute of Space Science and Technology - [IIST],0.7783,88.915
+Maharaja Agrasen Institute of Technology - [MAIT],0.7764941176470588,88.82470588235294
+SR University - [SRU],0.775775,88.78875
+Dr BR Ambedkar National Institute of Technology - [NIT],0.775525,88.77625
+Academy of Technology -  [AOT],0.7744500000000001,88.72250000000001
+RNS Institute of Technology - [RNSIT],0.7735857142857142,88.67928571428571
+Rajalakshmi Engineering College - [REC],0.7723333333333334,88.61666666666667
+KSR College of Engineering,0.7721,88.605
+Dr. Babasaheb Ambedkar Technological University - [DBATU],0.7711749999999999,88.55875
+Smt Kashibai Navale College of Engineering - [SKNCOE] Vadgaon,0.7690400000000001,88.452
+Rajagiri School of Engineering & Technology - [RSET],0.76515,88.2575
+IIT Bhilai - Indian Institute of Technology - [IITB],0.765,88.25
+Rajadhani Institute of Engineering and Technology - [RIET] Attinga,0.765,88.25
+Annasaheb Dange College of Engineering & Technology - [ADCET],0.765,88.25
+Shri Ram Institute of Technology - [SRIT],0.76425,88.2125
+Lakshmi Narain College of Technology - [LNCT],0.7640933333333333,88.20466666666667
+Dr. A.P.J. Abdul Kalam Technical University - [AKTU],0.7598,87.99
+Coochbehar Government Engineering College,0.7595000000000001,87.97500000000001
+Chandigarh Group of Colleges - [CGC] Landran,0.7591714285714285,87.95857142857142
+Indian Institute of Information Technology - [IIITM],0.7587,87.935
+K. C. College of Engineering And Management Studies And Research,0.7579,87.895
+Priyadarshini College of Engineering - [PCE],0.7574,87.87
+Birla Institute of Technology - [BIT Mesra],0.7571083333333334,87.85541666666667
+Cochin University of Science and Technology - [CUSAT],0.7565,87.825
+Karunya Institute of Technology and Sciences - [Karunya Deemed University],0.756275,87.81375
+Guru Tegh Bahadur Institute of Technology - [GTBIT],0.7547214285714287,87.73607142857142
+Chameli Devi Group of Institution,0.7534,87.67
+Chandigarh University - [CU],0.7514961538461538,87.57480769230769
+International Maritime Institute - [IMI],0.7506,87.53
+Shershah College of Engineering - [SCE],0.7506,87.53
+Government Engineering College,0.7484428571428572,87.42214285714286
+Siddharth Institute of Engineering & Technology - [SIETK],0.7481,87.405
+Sreepathy Institute of Management and Technology - [SIMAT] Vavannor,0.747,87.35
+Veermata Jijabai Technological Institute - [VJTI],0.7463142857142857,87.31571428571428
+University Visvesvaraya College of Engineering - [UVCE],0.74555,87.2775
+Shanti Institute of Technology - [SIT],0.7449,87.24499999999999
+Oriental Institute of Science and Technology - [OIST],0.7448142857142858,87.24071428571429
+Christ College of Engineering - [CCEIJK] Irinjalakuda,0.74465,87.2325
+MIT Academy of Engineering - [MITAOE],0.7441249999999999,87.20625
+Walchand Institute of Technology - [WIT],0.7389,86.94500000000001
+"Faculty of Technology and Engineering, Maharaja Sayajirao University of Baroda",0.7351,86.75500000000001
+Shree LR Tiwari College of Engineering - [SLRTCE],0.7351,86.75500000000001
+Ramgarh Engineering College - [REC],0.7351,86.75500000000001
+St Peter's College of Engineering and Technology - [SPCET],0.7351,86.75500000000001
+A. D. Patel Institute of Technology - [ADIT],0.73505,86.7525
+Madhav Institute of Technology and Science - [MITS],0.7329428571428572,86.64714285714285
+Jawaharlal Nehru Technological University - [JNTUH],0.7311,86.555
+College of Engineering and Technology - [CET],0.72866,86.433
+Gokaraju Rangaraju Institute of Engineering and Technology -  [GRIET],0.7279500000000001,86.39750000000001
+Marine Engineering And Research Institute - [MERI],0.7269,86.345
+Punjab Engineering College University of Technology - [PEC],0.7268749999999999,86.34375
+University of Petroleum and Energy Studies - [UPES],0.7223375,86.11687500000001
+Assam Engineering College - [AEC],0.7212666666666667,86.06333333333333
+Siksha 'O' Anusandhan University - [SOA],0.71915,85.9575
+Graphic Era University - [GEU],0.71524,85.762
+Government College of Engineering  - [GCE],0.7129666666666666,85.64833333333333
+IIT Hyderabad - Indian Institute of Technology - [IITH],0.7113666666666667,85.56833333333333
+DIT University - [DIT],0.7095857142857144,85.47928571428571
+Ramaiah Institute of Technology - [RIT],0.70918,85.459
+Jalpaiguri Government Engineering College - [JGEC],0.7084250000000001,85.42125
+Amity University,0.70835,85.4175
+The Northcap University - [NCU],0.7064666666666666,85.32333333333332
+Jawaharlal Nehru Technological University - [JNTU],0.7021,85.105
+Dibrugarh University,0.7003,85.015
+Devang Patel Institute of Advance Technology and Research - [DEPSTAR],0.7003,85.015
+SVKM's Institute of Technology - [SVKM's-IOT],0.7003,85.015
+Oriental College of Technology - [OCT],0.6984,84.92
+Indo Global College of Engineering,0.6969,84.845
+Anurag University,0.6925399999999999,84.627
+Manipal Institute of Technology - [MIT],0.69153,84.5765
+Kalinga Institute of Dental Sciences - [KIDS],0.6908,84.53999999999999
+Techno Main Salt Lake,0.6887705882352941,84.4385294117647
+IPS Academy,0.6882999999999999,84.41499999999999
+Nandha Engineering College - [NEC],0.68735,84.36749999999999
+Institute of Engineering and Technology - [IET],0.6844142857142856,84.22071428571428
+BMS Institute of Technology and Management - [BMSIT],0.6833333333333332,84.16666666666666
+University Institute of Engineering and Technology -[UIET],0.68145,84.07249999999999
+GS Mandal's Marathwada Institute of Technology - [MIT],0.6808,84.04
+Trident Academy of Technology,0.6808,84.04
+L.B.S. College of Engineering - [LBSCEK],0.6808,84.04
+Sathyabama Institute of Science and Technology,0.6791222222222222,83.95611111111111
+PA College of Engineering - [PACE],0.6758500000000001,83.7925
+Pune Vidhyarthi Griha's College of Engineering and Technology - [PVGCOET],0.6742666666666667,83.71333333333332
+Thiagarajar College of Engineering - [TCE],0.67245,83.6225
+VIT University - [VIT- AP],0.6706,83.52999999999999
+"Bundelkhand University, Institute of Engineering and Technology",0.66955,83.4775
+Sreyas Institute of Engineering and Technology - [SIET],0.6679,83.395
+Rajarshi Shahu College of Engineering - [RSCOE] Tathawade,0.66735,83.36749999999999
+New Horizon College of Engineering - [NHCE],0.66508,83.254
+Drs. Kiran and Pallavi Patel Global University,0.6642,83.21000000000001
+Pimpri Chinchwad College of Engineering - [PCCOE],0.6641142857142857,83.20571428571428
+CMR College of Engineering & Technology - [CMRCET],0.66372,83.186
+M H Saboo Siddik College of Engineering - [MHSSCOE],0.6626000000000001,83.13000000000001
+Warner College of Dairy Technology - [WCDT],0.6591,82.955
+Alva's Institute of Engineering and Technology,0.6576500000000001,82.88250000000001
+Ajay Kumar Garg Engineering College - [AKGEC],0.654975,82.74874999999999
+Rajiv Gandhi Institute of Petroleum Technology - [RGIPT],0.653,82.65
+Malaviya National Institute of Technology - [MNIT],0.6516444444444445,82.58222222222223
+Sardar Vallabhbhai National Institute of Technology - [SVNIT],0.6512,82.56
+Bharath University - Bharath Institute of Higher Education and Research - [BIHER],0.6511462809917355,82.55731404958678
+University of Calcutta,0.6499333333333334,82.49666666666667
+IIT Bhubaneswar - Indian Institute of Technology - [IITBBS],0.64944,82.472
+Heritage Institute of Technology - [HIT],0.6470181818181818,82.3509090909091
+Walchand College of Engineering - [WCE],0.6433,82.16499999999999
+Shah and Anchor Kutchhi Engineering College - [SAKEC],0.64155,82.0775
+Shri Ramdeobaba College of Engineering and Management - [RCOEM],0.638375,81.91874999999999
+Jadavpur University - [JU],0.6382444444444445,81.91222222222223
+AAA College of Engineering & Technology,0.6378,81.89
+Dr. Akhilesh Das Gupta Institute of Technology & Management - [ADGITM],0.6375,81.875
+Krishna Engineering College - [KEC],0.6370666666666667,81.85333333333334
+Sree Chaitanya Institute of  Technological Sciences,0.6369,81.845
+Dr. C.V. Raman University - [CVRU],0.6352,81.76
+Indian Institute of Information Technology Design and Manufacturing - [IIITDM],0.633775,81.68875
+Birla Institute of Technology - [BIT],0.6334,81.67
+Rajiv Gandhi Proudyogiki Vishwavidyalaya - [RGPV],0.6331,81.655
+Pranveer Singh Institute of Technology - [PSIT],0.63154375,81.57718750000001
+Vaagdevi Engineering College - [VEC],0.6269,81.345
+Neil Gogte Institute of Technology - [NGIT],0.62325,81.16250000000001
+International Institute of Information Technology - [IIIT],0.6222428571428572,81.11214285714286
+Govt. Model Engineering College - [MEC] Thrikkakara,0.6202,81.01
+NIT Trichy,0.61955,80.9775
+Vaagdevi College of Engineering  - [VCOE],0.6160666666666667,80.80333333333334
+Guru Ghasidas Vishwavidyalaya - [GGU],0.61574,80.78699999999999
+Visvesvaraya National Institute of Technology - [VNIT],0.61525,80.7625
+Government College of Engineering - [GCEK],0.6132,80.66
+Babasaheb Naik College of Engineering - [BNCOE],0.6124,80.62
+Jagannath Institute of Engineering and Technology - [JIET],0.6124,80.62
+"Swami Keshvanand Institute of Technology, Management and Gramothan - [SKIT]",0.6118636363636364,80.59318181818182
+Indian Institute of Engineering Science and Technology - [IIEST] Shibpur,0.610009090909091,80.50045454545455
+Vignan's Institute of Information Technology - [VIIT],0.60895,80.4475
+"J.C. Bose University Of Science And Technology, YMCA",0.6050857142857142,80.25428571428571
+Siddhartha Institute of Technology and Sciences - [SITS],0.60495,80.2475
+Budge Budge Institute of Technology - [BBIT],0.6028666666666667,80.14333333333333
+Indira Gandhi Delhi Technical University For Women -[IGDTUW],0.60225,80.1125
+MBM Engineering College - [MBM],0.6013666666666667,80.06833333333334
+National Institute of Food Technology Entrepreneurship and Management - [NIFTEM],0.6003666666666666,80.01833333333333
+Bharati Vidyapeeth Deemed University - [BVDU],0.595575,79.77875
+Raja Balwant Singh Engineering Technical Campus - [FETRBS],0.5931,79.655
+Vasavi College of Engineering,0.5927,79.635
+Sri Sairam College of Engineering,0.5905,79.525
+Anantha Lakshmi Institute of Technology and Sciences - [ALITS],0.5853,79.26500000000001
+"Cochin University of Science and Technology, School of Engineering -[SOE] Thrikkakara",0.58485,79.24249999999999
+JK Lakshmipat University - [JKLU],0.5825,79.125
+Hindustan Institute of Technology and Science - [HITS],0.5730333333333334,78.65166666666667
+Coimbatore Institute of Technology - [CIT],0.5729,78.645
+Indian Maritime University - [IMU],0.5721666666666666,78.60833333333332
+RVS Padhmavathy College of Engineering and Technology,0.5719,78.595
+Mumbai University - [MU],0.5719,78.595
+Sri Venkateswara College of Engineering and Technology - [SVCET],0.5719,78.595
+Dhanekula Institute of Engineering and Technology - [DIET],0.5708,78.53999999999999
+Dr. S & S.S. Ghandhy Government Engineering College,0.5702333333333334,78.51166666666667
+Karpagam College of Engineering - [KCE],0.5687666666666666,78.43833333333333
+The LNM Institute of Information Technology - [LNMIIT],0.5670999999999999,78.35499999999999
+Arya College of Engineering,0.56355,78.1775
+Vishwakarma Government Engineering College - [VGEC],0.5617333333333333,78.08666666666666
+Delhi Technical Campus - [DTC],0.5597666666666666,77.98833333333333
+JECRC University - [JU],0.55854,77.927
+GITAM,0.5574,77.86999999999999
+Asansol Engineering College - [AEC],0.55635,77.81750000000001
+MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT],0.55335,77.6675
+Netaji Subhas University of Technology - [NSUT] East Campus,0.5501,77.505
+Gateway Institute of Engineering and Technology - [GIET],0.5439222222222222,77.19611111111111
+Sri Jayachamarajendra College of Engineering - [SJCE],0.5425666666666666,77.12833333333333
+Sree Dattha Institute of Engineering and Science - [SDES],0.5423,77.115
+A. C. Patil College of Engineering - [ACPCE],0.5418,77.08999999999999
+G H Patel College of Engineering & Technology - [GCET],0.5418,77.08999999999999
+Kerala University of Fisheries and Ocean Studies - [KUFOS] Panangad,0.5413,77.06500000000001
+St.Joseph's Institute of Technology - [SJIT],0.5402,77.01
+Centurion University of Technology and Management - [CUTM],0.53702,76.851
+Poornima University - [PU],0.5362,76.81
+Chitkara University - [CU],0.5354625,76.773125
+Sagi Ramakrishnam Raju Engineering College - [SRKR ],0.5297666666666667,76.48833333333333
+Lendi Institute of Engineering and Technology,0.5294666666666666,76.47333333333333
+Guru Gobind Singh Indraprastha University - [GGSIPU],0.5272,76.36
+Rajiv Gandhi Institute of Technology - [RIT],0.5150666666666667,75.75333333333334
+Pune Institute of Computer Technology- [PICT],0.512423076923077,75.62115384615385
+ISM Dhanbad - Indian Institute of Technology - [IITISM],0.51198,75.59899999999999
+Krishna Chaitanya Institute of Technology and Sciences - [KITS],0.5118,75.59
+L.D. College of Engineering - [LDCE],0.509475,75.47375000000001
+Samrat Ashok Technological  Institute - [S.A.T.I],0.505,75.25
+IES College of Technology - [ICOT],0.5023,75.115
+Amrita School of Engineering - [ASE],0.499,74.95
+Gyan Ganga College of Technology - [GGCT],0.49593333333333334,74.79666666666667
+Dr. M.G.R. Educational and Research Institute,0.49576666666666663,74.78833333333334
+Mar Athanasius College of Engineering - [MACE],0.4927,74.635
+Parul Institute of Engineering and Technology - [PIET],0.4694333333333333,73.47166666666666
+RMD Engineering College,0.4588,72.94
+PDA College of Engineering,0.4588,72.94
+B. M. Institute of Engineering and Technology - [BMIET],0.4489,72.44500000000001
+"Institute of Engineering and Technology, Devi Ahilya University - [IET -DAVV]",0.4479,72.395
+Balaji Institute of Technology and Science - [BITS],0.4404,72.02
+Sri Siddhartha Institute of Technology - [SSIT],0.4404,72.02
+Institute of Infrastructure Technology Research and Management - [IITRAM],0.4313,71.565
+Government College,0.4215,71.075
+Kelappaji College of Agricultural Engineering & Technology - [KCAET] Tavanur,0.4215,71.075
+Kanad Institute of Engineering and Management - [KIEM],0.4201,71.005
+Government Engineering College - [GECSKP] Sreekrishnapuram ,0.41825,70.9125
+Indian Institute of Information Technology - [IIITK],0.4147,70.735
+Maharaja Sayajirao University of Baroda - [MSU],0.4133,70.665
+Kunjali Marakkar School of Marine Engineering - [KMSME],0.41113333333333335,70.55666666666667
+Birsa Institute of Technology - [BIT] Sindri,0.407225,70.36125
+Govt Engineering College,0.4019,70.095
+Rajiv Gandhi University of Knowledge Technologies -[RGUKT],0.4,70.0
+Velammal College of Engineering and Technology - [VCET],0.38865,69.43249999999999
+Sinhgad Institute of Technology and Science -[SITS] Narhe,0.38732500000000003,69.36625000000001
+RVR and JC College of Engineering,0.387,69.35
+Lakshmi Narain College of Technology & Science - [LNCTS],0.383725,69.18625
+Shri Sapthagiri Institute of Technology - [SSIT],0.3818,69.08999999999999
+Nirma University - [NU],0.37894,68.947
+Babu Banarasi Das Northern India Institute of Technology - [BBDNIIT],0.37335,68.6675
+"GB Pant Delhi Skill and Entrepreneurship University, Okhla-I Campus",0.36356666666666665,68.17833333333333
+SRM Institute of Science and Technology Ramapuram Campus,0.36164,68.082
+Ajeenkya DY  Patil University - [ADYPU],0.3612,68.06
+Jaypee University of Engineering and Technology - [JUET],0.3529,67.645
+Haldia Institute of Technology - [HIT],0.35224,67.61200000000001
+Methodist College of Engineering & Technology - [MCET],0.34,67.0
+Marri Laxman Reddy Institute of Technology & Management - [MLRITM],0.34,67.0
+Matsyodari Shikshan Sanstha's College of Engineering and Technology,0.34,67.0
+St Vincent Pallotti College of Engineering and Technology -[SVPCET],0.3392,66.96
+Global Institute of Technology - [GIT],0.33285,66.6425
+IIT Ropar - Indian Institute of Technology - [IITR],0.31066666666666665,65.53333333333333
+Jaipur Engineering College and Research Centre,0.30262,65.131
+"College of Technology,  GB Pant University of Agriculture & Technology",0.30246666666666666,65.12333333333333
+Anna University of Technology,0.296,64.8
+Vidya Vikas Institute of Engineering and Technology - [VVIET],0.2732,63.660000000000004
+PES University - [PESU],0.2712,63.559999999999995
+"University College of Engineering, Anna University - [AUPKT]",0.2699,63.495000000000005
+Sri Indu Institute of Engineering & Technology - [SIIET],0.2553,62.765
+East West Institute of Technology - [EWIT],0.23123333333333332,61.56166666666667
+Rajkiya Engineering College - [RECK],0.2263,61.315
+Barak Valley Engineering College - [BVEC],0.2215,61.075
+Akshaya College of Engineering and Technology-[ACET],0.2099,60.495
+RKDF University,0.2052,60.260000000000005
+JB Institute of Technology - [JBIT],0.20334999999999998,60.1675
+M.S. Ramaiah University of Applied Sciences - [MSRUAS],0.20294999999999996,60.1475
+Dhanalakshmi Srinivasan College of Engineering and Technology - [DSCET],0.2023,60.114999999999995
+Barkatullah University Institute of Technology - [BUIT],0.1999,59.995
+Institute of Engineering and Rural Technology - [IERT],0.1943,59.714999999999996
+Government College of Engineering & Textile Technology - [GCETT],0.1935,59.675
+Sambhram Institute of Technology - [SAIT],0.1768666666666667,58.843333333333334
+Government College of Engineering - [GCE],0.11519999999999998,55.76
+"University College of Engineering, JNTUK",0.11374999999999996,55.6875
+Adhiyamaan College of Engineering,0.11230000000000001,55.615
+"RH Sapat College of Engineering, Management Studies and Research",0.1027,55.135
+Hindusthan College of Engineering and Technology - [HICET],0.1001,55.005
+Bharati Vidyapeeth's College  of Engineering - [BVCOE] Lavale,0.0935,54.675
+Jamia Millia Islamia University-[JMI],0.09269999999999995,54.635
+KVG College of Engineering - [KVGCE],0.0516,52.580000000000005
+Symbiosis Institute of Technology - [SIT],0.04146666666666665,52.07333333333332
+Invertis University,0.024,51.2
+Motihari College of Engineering - [MCE],0.0138,50.690000000000005
+Mar Baselios Institute of Technology and Science - [MBITS],0.0,50.0
+SR International Institute of Technology - [SRIIT],0.0,50.0
+Indian Institute of Information Technology -[IIIT],0.0,50.0
+Jain College of Engineering - [JCE],0.0,50.0
+Kruti Institute of Technology and Engineering - [KITE],0.0,50.0
+DRIEMS Group of Institutions,-0.022899999999999976,48.855000000000004
+Chitkara University,-0.047250000000000014,47.6375
+Godavari Institute of Engineering and Technology - [GIET] Rajahmundry,-0.069,46.550000000000004
+Institute of Chemical Technology - [ICT],-0.0772,46.14
+SSN College of Engineering - [SSNCE],-0.0882,45.589999999999996
+P. V. Narsimha Rao Telangana Veterinary University Rajendra Nagar,-0.09,45.5
+Government Engineering College -[GEC],-0.1093,44.535000000000004
+BGS Institute of Technology - [BGSIT],-0.1195,44.025000000000006
+Government College of Engineering,-0.1246,43.769999999999996
+Atria Institute of Technology,-0.128,43.6
+Anjuman-I-Islam's Kalsekar Technical Campus - [AIKTC],-0.128,43.6
+"CVR College of Engineering, Ibrahimpatnam",-0.1505,42.475
+G. Pullaiah College of Engineering and Technology - [GPCET],-0.1561,42.195
+"University Institute of Engineering and Technology, Maharshi Dayanand University - [UIET]",-0.17435000000000003,41.2825
+Calicut University Institute of Engineering Technology - [CUIET],-0.19503333333333336,40.24833333333333
+Jawaharlal Nehru Architecture and Fine Arts University - [JNAFAU],-0.23608,38.196
+Barkatullah University - [BU],-0.25,37.5
+Marwadi University - [MU],-0.2592,37.04
+Aligarh College of Engineering and Technology - [ACET],-0.2649,36.754999999999995
+Sal Engineering and Technical Institute - [SETI],-0.2709,36.455000000000005
+NS Raju Institute of Technology - [NSRIT],-0.296,35.199999999999996
+Xavier Institute of Engineering - [XIE],-0.2963,35.185
+"University BDT College of Engineering, Visvesvaraya Technological University - [UBDTCE]",-0.3786,31.069999999999997
+"Rajiv Gandhi College of Engineering, Research and Technology - [RCERT]",-0.405,29.75
+Dharmsinh Desai University - [DDU],-0.4215,28.925
+Siliguri Institute of Technology - [SIT],-0.4215,28.925
+Kongu Engineering College - [KEC],-0.4767,26.165
+Indira Institute of Engineering and Technology - [IIET],-0.4912,25.439999999999998
+Chaitanya Bharathi Institute of Technology - [CBIT],-0.5541499999999999,22.292500000000004
+Canara Engineering College - [CEC],-0.6049,19.755
+Arya College of Engineering and IT - [ACEIT],-0.6759,16.205000000000002
+PES Institute of Technology and Management - [PESITM],-0.6863,15.684999999999999
+Acharya Institute of Technology - [AIT],-0.7002999999999999,14.985000000000003
+DN Patel College of Engineering - [DNPCE],-0.7072,14.639999999999997
+Rai University - [RU],-0.727,13.65
+DMI College of Engineering - [DMICE],-0.7351,13.245000000000001
+DMI Engineering College,-0.7641,11.795
+Navrachana University - [NUV],-0.7648,11.759999999999998
+ICFAI Foundation for Higher Education - [IFHE],-0.8237,8.815000000000001
+Government College of Technology - [GCT],-0.889,5.549999999999999
+State Institute Of Engineering & Technology,-0.995,0.2500000000000002
