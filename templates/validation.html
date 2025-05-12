@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Score Validation</title>
+    <style>
+        .validation-container {
+            margin: 20px;
+            padding: 15px;
+        }
+        .metric-card {
+            background: #f5f5f5;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 3px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="validation-container">
+        <h1>Score Validation Results</h1>
+        
+        <div class="metric-card">
+            <h2>Accuracy Metrics</h2>
+            <p>Root Mean Square Error: {{ "%.2f"|format(results.rmse) }}</p>
+            <p>R² Score: {{ "%.2f"|format(results.r2) }}</p>
+            <p>Correlation: {{ "%.2f"|format(results.correlation) }}</p>
+        </div>
+
+        <div class="metric-card">
+            <h2>Sample Comparisons</h2>
+            <table>
+                <tr>
+                    <th>College</th>
+                    <th>Actual Rating</th>
+                    <th>Predicted Score</th>
+                    <th>Difference</th>
+                </tr>
+                {% for _, row in sample_comparisons.iterrows() %}
+                <tr>
+                    <td>{{ row['College Name'] }}</td>
+                    <td>{{ "%.1f"|format(row['Rating']) }}</td>
+                    <td>{{ "%.1f"|format(((row['Sentiment Score'] + 1) / 2) * 9 + 1) }}</td>
+                    <td>{{ "%.1f"|format(abs(row['Rating'] - (((row['Sentiment Score'] + 1) / 2) * 9 + 1))) }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    <a href="/">Back to Home</a>
+</body>
+</html>

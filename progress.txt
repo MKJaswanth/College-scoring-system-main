@@ -1,0 +1,20 @@
+hiii !!
+
+
+progress that happened in our project 
+
+any one can edit and add your contribution 
+
+let me first describe what our project is all about .
+
+our project was about giving college score based on reviews and rating ( rating are optional )
+for the reviews we will be using nlp to find the sentimental score based on the reviews and we will be 
+adding the rating with that to  make the scoring system more efficient 
+
+# Dataset
+
+we are using the dataset from kaggle which has users_name , college_name , rating in it 
+we almost had 4000 users data in it which made us traing and testing easy for us , the problem we had 
+in this dataset was , most of the reviews are positive which may cause our model to find it difficult to 
+identify  negative reviews  
+
